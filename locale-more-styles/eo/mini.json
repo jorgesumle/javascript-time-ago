@@ -1,0 +1,21 @@
+{
+	"year": {
+		"one": "{0} jaro",
+		"other": "{0} jaroj"
+	},
+	"month": {
+		"one": "{0} monato",
+		"other": "{0} monatoj"
+	},
+	"week": "{0} sem.",
+	"day": {
+		"one": "{0} tago",
+		"other": "{0} tagoj"
+	},
+	"hour": {
+		"one": "{0} horo",
+		"other": "{0} horoj"
+	},
+	"minute": "{0} min.",
+	"second": "{0} sek."
+}

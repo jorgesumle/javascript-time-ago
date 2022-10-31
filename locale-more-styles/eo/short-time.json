@@ -1,0 +1,12 @@
+ {
+	"year": "{0} ja.",
+	"month": "{0} mo.",
+	"week": "{0} sem.",
+	"day": {
+		"one": "{0} tago",
+		"other": "{0} tagoj"
+	},
+	"hour": "{0} horo",
+	"minute": "{0} min.",
+	"second": "{0} sek."
+}
